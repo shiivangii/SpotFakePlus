@@ -7,6 +7,10 @@ fake news detection. '
 To the best of our knowledge, this is the first work that performs a multimodal approach for fake news detection on a dataset that consists of full length articles. It
 outperforms the performance shown by both single modality and multiple-modality models.
 
+
+# 
+In progress... will be updated soon....
+
 ## Dataset
 FakeNewsNet Repository: cleaned version of dataset is available [here] (  )
 
