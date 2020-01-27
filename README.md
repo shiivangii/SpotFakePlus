@@ -8,8 +8,7 @@ To the best of our knowledge, this is the first work that performs a multimodal 
 outperforms the performance shown by both single modality and multiple-modality models.
 
 
-# 
-In progress... will be updated soon....
+#  In progress... will be updated soon....
 
 ## Dataset
 FakeNewsNet Repository: cleaned version of dataset is available [here] (  )
