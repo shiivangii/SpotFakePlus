@@ -12,13 +12,3 @@ outperforms the performance shown by both single modality and multiple-modality 
 ## Dataset
 FakeNewsNet Repository: Due to large size of the repo, cleaned version of dataset is not made publically available.
 if you want cleaned version of the dataset or model checkpoints, please email us on: shivangis@iiitd.ac.in
-
-
-@inproceedings{SpotFake+,
-  author ={Singhal, Shivangi and Kabra, Anubha and Sharma, Mohit and Shah, Rajiv and Chakraborty, Tanmoy and Kumaraguru, Ponnurangam},
-  title = {SpotFake+: A Multimodal Framework for Fake News Detection via Transfer Learning},
-  booktitle = {AAAI},
- year={2020},
- location={New York, USA},
- keywords={Multimodal Fake News Detection, Machine Learning, Deep Learning}
- }
